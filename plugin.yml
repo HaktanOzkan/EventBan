@@ -1,0 +1,6 @@
+name: EventBan
+main: me.event.eventBan
+version: 0.0.1
+author: HaktanOzkan
+commands:
+  eventban:
